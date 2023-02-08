@@ -1,13 +1,14 @@
-# Highly Reusable Page Layout using React Design Patterns:
+# Highly Reusable Page Layout using React Design Patterns
 
 Fully responsive fluid page layout build with React Design Pattern: Split Screen.
 
 ![Preview #1](src/preview1.png "React Design Patterns")
 ![Preview #2](src/preview2.png "React Design Patterns")
+![Preview #3](src/preview3.png "React Design Patterns")
 
 ---
 
-## This project using
+## This project uses
 
 - 🧪 React + Vite.
 - ✨ Styles-Components.
