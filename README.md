@@ -15,11 +15,11 @@ Fully responsive fluid page layout build with React Design Pattern: Split Screen
 
 ## Run
 
-### `npm instal`
+### `npm install` or `yarn install` depending on the command-line tool you are using
 
 ## Local View
 
-### `npm run dev`
+### `npm run dev` or `yarn run dev` depending on the command-line tool you are using
 
 ---
 
